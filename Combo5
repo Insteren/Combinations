@@ -1,0 +1,3 @@
+//For fivth express
+
+string combs[32] = ["ABCDE", "ABCDJ", "ABCEI", "ABCIJ", "ABDEH", "ABDHJ", "ABEHI", "ABHIJ", "ACDEG", "ACDGJ", "ACEGI", "ACGIJ", "ADEGH", "ADGHJ", "AEGHI", "AGHIJ", "BCDEF", "BCDFJ", "BCEFI", "BCFIJ", "BDEFH", "BDFHJ", "BEFHI", "BFHIJ", "CDEFG", "CDFGJ", "CEFGI", "CFGIJ", "DEFGH", "DFGHJ", "EFGHI", "FGHIJ"];
