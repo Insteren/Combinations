@@ -1,0 +1,3 @@
+//For third express
+
+string combs[8] = ["ABC", "ABF", "ACE", "AEF", "BCD", "BDF", "CDE", "DEF"];
