@@ -1,0 +1,3 @@
+//For fourth express
+
+string combs[16] = ["ABCD", "ABCH", "ABDG", "ABGH", "ACDF", "ACFH", "ADFG", "AFGH", "BCDE", "BCEH", "BDEG", "BEGH", "CDEF", "CEFH", "DEFG", "EFGH"];
